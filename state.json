@@ -37,13 +37,13 @@
     },
     "UI3COO7RFG4RKDUH2WDK36SG": {
       "alerted": true,
-      "consecutive_in_stock": 1,
+      "consecutive_in_stock": 2,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
-      "last_alert_at": "2026-11-03T01:32:15.239620+00:00",
+      "last_alert_at": "2026-11-03T08:31:59.740833+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon 30th Celebration Battle Deck (*In-Store Pick-up Only!*)",
-      "reminders_sent": 0,
+      "reminders_sent": 1,
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-battle-deck-in-store-pick-up-only-/UI3COO7RFG4RKDUH2WDK36SG"
     },
     "UJ3MS64ZAD4EEJHBMRESUZFD": {
