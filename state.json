@@ -1,0 +1,74 @@
+{
+  "failure_alert_sent": false,
+  "last_heartbeat_date": "2026-11-02",
+  "products": {
+    "KJE2AIG2IHILMZP2XKYLARES": {
+      "alerted": false,
+      "consecutive_in_stock": 0,
+      "current": "OUT_OF_STOCK",
+      "first_seen": "2026-11-03T01:32:15.239620+00:00",
+      "last_alert_at": null,
+      "last_known": "OUT_OF_STOCK",
+      "name": "Pokemon 30th Celebration Tech Sticker Collection (*In-Store Pick-up Only!*)",
+      "reminders_sent": 0,
+      "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-tech-sticker-collection-in-store-pick-up-only-/KJE2AIG2IHILMZP2XKYLARES"
+    },
+    "MRJTIODERTY67I2UMLDKLN62": {
+      "alerted": false,
+      "consecutive_in_stock": 0,
+      "current": "OUT_OF_STOCK",
+      "first_seen": "2026-11-03T01:32:15.239620+00:00",
+      "last_alert_at": null,
+      "last_known": "OUT_OF_STOCK",
+      "name": "Pokemon 30th Celebration Elite Trainer Box (*In-Store Pick-up Only!*)",
+      "reminders_sent": 0,
+      "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-elite-trainer-box-in-store-pick-up-only-/MRJTIODERTY67I2UMLDKLN62"
+    },
+    "NFRH52LSN26M5AXZLFZ3VC47": {
+      "alerted": false,
+      "consecutive_in_stock": 0,
+      "current": "OUT_OF_STOCK",
+      "first_seen": "2026-11-03T01:32:15.239620+00:00",
+      "last_alert_at": null,
+      "last_known": "OUT_OF_STOCK",
+      "name": "Pokemon 30th Celebration Knockout Collection (*In-Store Pick-up Only!*)",
+      "reminders_sent": 0,
+      "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-knockout-collection-in-store-pick-up-only-/NFRH52LSN26M5AXZLFZ3VC47"
+    },
+    "UI3COO7RFG4RKDUH2WDK36SG": {
+      "alerted": true,
+      "consecutive_in_stock": 1,
+      "current": "IN_STOCK",
+      "first_seen": "2026-11-03T01:32:15.239620+00:00",
+      "last_alert_at": "2026-11-03T01:32:15.239620+00:00",
+      "last_known": "IN_STOCK",
+      "name": "Pokemon 30th Celebration Battle Deck (*In-Store Pick-up Only!*)",
+      "reminders_sent": 0,
+      "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-battle-deck-in-store-pick-up-only-/UI3COO7RFG4RKDUH2WDK36SG"
+    },
+    "UJ3MS64ZAD4EEJHBMRESUZFD": {
+      "alerted": false,
+      "consecutive_in_stock": 0,
+      "current": "OUT_OF_STOCK",
+      "first_seen": "2026-11-03T01:32:15.239620+00:00",
+      "last_alert_at": null,
+      "last_known": "OUT_OF_STOCK",
+      "name": "Pokemon 30th Celebration Mini Tin (*In-Store Pick-up Only!*)",
+      "reminders_sent": 0,
+      "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-mini-tin-in-store-pick-up-only-/UJ3MS64ZAD4EEJHBMRESUZFD"
+    },
+    "VNCTO5HI4EHP7LYJ63DF65PK": {
+      "alerted": false,
+      "consecutive_in_stock": 0,
+      "current": "OUT_OF_STOCK",
+      "first_seen": "2026-11-03T01:32:15.239620+00:00",
+      "last_alert_at": null,
+      "last_known": "OUT_OF_STOCK",
+      "name": "Pokemon 30th Celebration ex Box (*In-Store Pick-up Only!*)",
+      "reminders_sent": 0,
+      "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-ex-box-in-store-pick-up-only-/VNCTO5HI4EHP7LYJ63DF65PK"
+    }
+  },
+  "seeded": true,
+  "unhealthy_since": null
+}
