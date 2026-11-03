@@ -1,0 +1,734 @@
+{
+ "data": [
+  {
+   "id": "5UC6UORPIYXVTK6OHQ6HQB75",
+   "square_id": "5UC6UORPIYXVTK6OHQ6HQB75",
+   "name": "Pokemon Sword & Shield Chilling Reign Booster Pack",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": false,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 36,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 36,
+    "lowest": 36,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/pokemon-sword-shield-chilling-reign-booster-pack/1302",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/pokemon-sword-shield-chilling-reign-booster-pack/1302",
+   "created_date": "2021-06-17T22:20:59+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 15.99,
+    "high": 15.99,
+    "low_formatted": "$15.99",
+    "high_formatted": "$15.99"
+   }
+  },
+  {
+   "id": "4GZVS6HPBKMQ3CGUQSRZFIUN",
+   "square_id": "4GZVS6HPBKMQ3CGUQSRZFIUN",
+   "name": "WWE Elite Collection Series 117 Roman Reigns Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 1,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 1,
+    "lowest": 1,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-elite-collection-series-117-roman-reigns-action-figure/4GZVS6HPBKMQ3CGUQSRZFIUN",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-elite-collection-series-117-roman-reigns-action-figure/4GZVS6HPBKMQ3CGUQSRZFIUN",
+   "created_date": "2025-09-24T20:57:34+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 26.99,
+    "high": 26.99,
+    "low_formatted": "$26.99",
+    "high_formatted": "$26.99"
+   }
+  },
+  {
+   "id": "4IBF6FIVW6LYHKIVZ4PAYF4M",
+   "square_id": "4IBF6FIVW6LYHKIVZ4PAYF4M",
+   "name": "WWE Elite Collection Series 120 Roman Reigns Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "low_stock": true,
+    "out_of_stock": false,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 2,
+    "lowest": 2,
+    "enabled": false,
+    "all_variations_sold_out": false,
+    "some_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 2,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": null,
+    "delivery": null,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-elite-collection-series-120-roman-reigns-action-figure/4IBF6FIVW6LYHKIVZ4PAYF4M",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-elite-collection-series-120-roman-reigns-action-figure/4IBF6FIVW6LYHKIVZ4PAYF4M",
+   "created_date": "2025-11-06T21:30:16+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 28.99,
+    "high": 28.99,
+    "low_formatted": "$28.99",
+    "high_formatted": "$28.99"
+   }
+  },
+  {
+   "id": "7DZ6FCILNYDG5QFIJNES7WLB",
+   "square_id": "7DZ6FCILNYDG5QFIJNES7WLB",
+   "name": "WWE Bloodline Rules Playset (*In-Store Pick-up Only!*)",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 1,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 1,
+    "lowest": 1,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-bloodline-rules-playset-in-store-pick-up-only-/7DZ6FCILNYDG5QFIJNES7WLB",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-bloodline-rules-playset-in-store-pick-up-only-/7DZ6FCILNYDG5QFIJNES7WLB",
+   "created_date": "2026-07-22T18:58:31+00:00",
+   "updated_date": "2026-09-20T15:41:46+00:00",
+   "price": {
+    "low": 69.99,
+    "high": 69.99,
+    "low_formatted": "$69.99",
+    "high_formatted": "$69.99"
+   }
+  },
+  {
+   "id": "7Q3TYUQRLI7SOSXY4DEFBH3P",
+   "square_id": "7Q3TYUQRLI7SOSXY4DEFBH3P",
+   "name": "Godzilla Card Game Reign of Kaiju (GDZ01) Booster Pack",
+   "visibility": "visible",
+   "badges": {
+    "low_stock": false,
+    "out_of_stock": false,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 7,
+    "lowest": 7,
+    "enabled": false,
+    "all_variations_sold_out": false,
+    "some_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 7,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/godzilla-card-game-reign-of-kaiju-gdz01-booster-pack/7Q3TYUQRLI7SOSXY4DEFBH3P",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/godzilla-card-game-reign-of-kaiju-gdz01-booster-pack/7Q3TYUQRLI7SOSXY4DEFBH3P",
+   "created_date": "2026-03-10T18:25:45+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 3.99,
+    "high": 3.99,
+    "low_formatted": "$3.99",
+    "high_formatted": "$3.99"
+   }
+  },
+  {
+   "id": "AD5GROOGPWBCUB5BMUN2XHWS",
+   "square_id": "AD5GROOGPWBCUB5BMUN2XHWS",
+   "name": "WWE Main Event Series 151 Roman Reigns Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": false,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 5,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 5,
+    "lowest": 5,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-main-event-series-151-roman-reigns-action-figure/8980",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-main-event-series-151-roman-reigns-action-figure/8980",
+   "created_date": "2024-10-04T20:27:05+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 14.99,
+    "high": 14.99,
+    "low_formatted": "$14.99",
+    "high_formatted": "$14.99"
+   }
+  },
+  {
+   "id": "X32DLJ72UDGB3U6L2CT2JG3B",
+   "square_id": "X32DLJ72UDGB3U6L2CT2JG3B",
+   "name": "Disney Lorcana Reign of Jafar Illumineer's Quest Palace Heist",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 1,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 1,
+    "lowest": 1,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/disney-lorcana-reign-of-jafar-illumineer-s-quest-palace-heist/9833",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/disney-lorcana-reign-of-jafar-illumineer-s-quest-palace-heist/9833",
+   "created_date": "2025-04-08T15:09:50+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 39.99,
+    "high": 39.99,
+    "low_formatted": "$39.99",
+    "high_formatted": "$39.99"
+   }
+  },
+  {
+   "id": "IB22GXU7W57K524MQPNP4RFU",
+   "square_id": "IB22GXU7W57K524MQPNP4RFU",
+   "name": "WWE SummerSlam Roman Reigns Elite 2025 Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 1,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 1,
+    "lowest": 1,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-summerslam-roman-reigns-elite-2025-action-figure/9924",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-summerslam-roman-reigns-elite-2025-action-figure/9924",
+   "created_date": "2025-05-09T22:08:04+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 25.99,
+    "high": 25.99,
+    "low_formatted": "$25.99",
+    "high_formatted": "$25.99"
+   }
+  },
+  {
+   "id": "72ZSZ626IJWRZXZCDATTMCAS",
+   "square_id": "72ZSZ626IJWRZXZCDATTMCAS",
+   "name": "Disney Lorcana Reign of Jafar Booster Pack",
+   "visibility": "visible",
+   "badges": {
+    "low_stock": false,
+    "out_of_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 0,
+    "lowest": 0,
+    "enabled": false,
+    "all_variations_sold_out": true,
+    "some_variations_sold_out": true,
+    "marked_sold_out_at_all_existing_locations": true,
+    "marked_sold_out_skus_count": 1,
+    "all_inventory_total": 0,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/disney-lorcana-reign-of-jafar-booster-pack/9982",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/disney-lorcana-reign-of-jafar-booster-pack/9982",
+   "created_date": "2025-05-28T21:41:55+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 4.49,
+    "high": 4.49,
+    "low_formatted": "$4.49",
+    "high_formatted": "$4.49"
+   }
+  },
+  {
+   "id": "COBPP2SYVCQUUH6WAYBPYRXP",
+   "square_id": "COBPP2SYVCQUUH6WAYBPYRXP",
+   "name": "WWE Top Picks Elite Collection 2026 Wave 2 Roman Reigns Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 2,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 2,
+    "lowest": 2,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": null,
+    "delivery": null,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-top-picks-elite-collection-2026-wave-2-roman-reigns-action-figure/COBPP2SYVCQUUH6WAYBPYRXP",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-top-picks-elite-collection-2026-wave-2-roman-reigns-action-figure/COBPP2SYVCQUUH6WAYBPYRXP",
+   "created_date": "2026-02-11T14:51:57+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 29.99,
+    "high": 29.99,
+    "low_formatted": "$29.99",
+    "high_formatted": "$29.99"
+   }
+  },
+  {
+   "id": "IKFSTT3GO66X4VFKDYNU2III",
+   "square_id": "IKFSTT3GO66X4VFKDYNU2III",
+   "name": "WWE Elite Collection Series 126 Roman Reigns Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 2,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 2,
+    "lowest": 2,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-elite-collection-series-126-roman-reigns-action-figure/IKFSTT3GO66X4VFKDYNU2III",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-elite-collection-series-126-roman-reigns-action-figure/IKFSTT3GO66X4VFKDYNU2III",
+   "created_date": "2026-06-26T20:49:50+00:00",
+   "updated_date": "2026-09-20T15:41:04+00:00",
+   "price": {
+    "low": 26.99,
+    "high": 26.99,
+    "low_formatted": "$26.99",
+    "high_formatted": "$26.99"
+   }
+  },
+  {
+   "id": "NWTOK2K6K6XSYDHMZLTCNE67",
+   "square_id": "NWTOK2K6K6XSYDHMZLTCNE67",
+   "name": "Ultra Pro Pokemon Mega Evolution Delta Reign 9-Pocket Portfolio",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": false,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 9,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 9,
+    "lowest": 9,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/ultra-pro-pokemon-mega-evolution-delta-reign-9-pocket-portfolio/NWTOK2K6K6XSYDHMZLTCNE67",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/ultra-pro-pokemon-mega-evolution-delta-reign-9-pocket-portfolio/NWTOK2K6K6XSYDHMZLTCNE67",
+   "created_date": "2026-10-15T19:52:36+00:00",
+   "updated_date": "2026-10-15T19:53:15+00:00",
+   "price": {
+    "low": 15.99,
+    "high": 15.99,
+    "low_formatted": "$15.99",
+    "high_formatted": "$15.99"
+   }
+  },
+  {
+   "id": "RTLQXAU5UJKMQDRPBQ6CY476",
+   "square_id": "RTLQXAU5UJKMQDRPBQ6CY476",
+   "name": "WWE Elite Collection Greatest Hits Wave 4 Roman Reigns Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 2,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 2,
+    "lowest": 2,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-elite-collection-greatest-hits-wave-4-roman-reigns-action-figure/RTLQXAU5UJKMQDRPBQ6CY476",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-elite-collection-greatest-hits-wave-4-roman-reigns-action-figure/RTLQXAU5UJKMQDRPBQ6CY476",
+   "created_date": "2026-07-07T19:09:09+00:00",
+   "updated_date": "2026-09-20T15:41:19+00:00",
+   "price": {
+    "low": 26.99,
+    "high": 26.99,
+    "low_formatted": "$26.99",
+    "high_formatted": "$26.99"
+   }
+  },
+  {
+   "id": "TSQ3YN22QGRWRCBHXYAFVQND",
+   "square_id": "TSQ3YN22QGRWRCBHXYAFVQND",
+   "name": "WWE Main Event Series Best of Mix 3 Roman Reigns Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 2,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 2,
+    "lowest": 2,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-main-event-series-best-of-mix-3-roman-reigns-action-figure/TSQ3YN22QGRWRCBHXYAFVQND",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-main-event-series-best-of-mix-3-roman-reigns-action-figure/TSQ3YN22QGRWRCBHXYAFVQND",
+   "created_date": "2026-10-14T21:16:50+00:00",
+   "updated_date": "2026-10-14T21:18:23+00:00",
+   "price": {
+    "low": 14.99,
+    "high": 14.99,
+    "low_formatted": "$14.99",
+    "high_formatted": "$14.99"
+   }
+  },
+  {
+   "id": "UWTDZEYAGWRREVZYFFETVLUU",
+   "square_id": "UWTDZEYAGWRREVZYFFETVLUU",
+   "name": "Magic the Gathering: Foundations: Reign of Dragons Commander Deck (*In-Store Pick-up Only!*)",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 2,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 2,
+    "lowest": 2,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/magic-the-gathering-foundations-reign-of-dragons-commander-deck-in-store-pick-up-only-/UWTDZEYAGWRREVZYFFETVLUU",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/magic-the-gathering-foundations-reign-of-dragons-commander-deck-in-store-pick-up-only-/UWTDZEYAGWRREVZYFFETVLUU",
+   "created_date": "2026-09-23T16:13:20+00:00",
+   "updated_date": "2026-10-23T12:28:54+00:00",
+   "price": {
+    "low": 34.99,
+    "high": 34.99,
+    "low_formatted": "$34.99",
+    "high_formatted": "$34.99"
+   }
+  },
+  {
+   "id": "WM5JIG2GOBZR6O5PQHW6BG2I",
+   "square_id": "WM5JIG2GOBZR6O5PQHW6BG2I",
+   "name": "WWE Elite Collection Series Greatest Hits Roman Reigns Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 2,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 2,
+    "lowest": 2,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-elite-collection-series-greatest-hits-roman-reigns-action-figure/WM5JIG2GOBZR6O5PQHW6BG2I",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-elite-collection-series-greatest-hits-roman-reigns-action-figure/WM5JIG2GOBZR6O5PQHW6BG2I",
+   "created_date": "2026-10-07T21:09:58+00:00",
+   "updated_date": "2026-10-07T21:11:08+00:00",
+   "price": {
+    "low": 29.99,
+    "high": 29.99,
+    "low_formatted": "$29.99",
+    "high_formatted": "$29.99"
+   }
+  },
+  {
+   "id": "WPISVLLOPVU27WWIWWU6F33H",
+   "square_id": "WPISVLLOPVU27WWIWWU6F33H",
+   "name": "WWE Elite Collection Series 123 Roman Reigns Action Figure",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": false,
+    "low_stock": true,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 2,
+    "all_variations_sold_out": false,
+    "marked_sold_out_at_all_existing_locations": false,
+    "marked_sold_out_skus_count": 0,
+    "all_inventory_total": 2,
+    "lowest": 2,
+    "enabled": false,
+    "some_variations_sold_out": false,
+    "has_location_not_tracking": false
+   },
+   "preordering": {
+    "pickup": null,
+    "delivery": null,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/wwe-elite-collection-series-123-roman-reigns-action-figure/WPISVLLOPVU27WWIWWU6F33H",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/wwe-elite-collection-series-123-roman-reigns-action-figure/WPISVLLOPVU27WWIWWU6F33H",
+   "created_date": "2026-02-11T14:23:15+00:00",
+   "updated_date": "2026-09-17T20:13:29+00:00",
+   "price": {
+    "low": 26.99,
+    "high": 26.99,
+    "low_formatted": "$26.99",
+    "high_formatted": "$26.99"
+   }
+  },
+  {
+   "id": "XGUFCXERF3KRV3GOLMUMWOO2",
+   "square_id": "XGUFCXERF3KRV3GOLMUMWOO2",
+   "name": "Pokemon Delta Reign Prerelease PLAY Event (Saturday, 10/31 - 10:00AM)",
+   "visibility": "visible",
+   "badges": {
+    "out_of_stock": true,
+    "low_stock": false,
+    "on_sale": false
+   },
+   "inventory": {
+    "total": 0,
+    "all_variations_sold_out": true,
+    "marked_sold_out_at_all_existing_locations": true,
+    "marked_sold_out_skus_count": 1,
+    "all_inventory_total": 0,
+    "lowest": 0,
+    "enabled": false,
+    "some_variations_sold_out": true,
+    "has_location_not_tracking": true
+   },
+   "preordering": {
+    "pickup": false,
+    "delivery": false,
+    "shipping": false,
+    "dine_in": false,
+    "manual": false,
+    "download": false
+   },
+   "site_link": "product/pokemon-delta-reign-prerelease-play-event-saturday-10-31-10-00am-/XGUFCXERF3KRV3GOLMUMWOO2",
+   "absolute_site_link": "https://www.mainevintagetoys.com/product/pokemon-delta-reign-prerelease-play-event-saturday-10-31-10-00am-/XGUFCXERF3KRV3GOLMUMWOO2",
+   "created_date": "2026-09-29T17:33:01+00:00",
+   "updated_date": "2026-09-29T17:33:01+00:00",
+   "price": {
+    "low": 30,
+    "high": 30,
+    "low_formatted": "$30.00",
+    "high_formatted": "$30.00"
+   }
+  }
+ ],
+ "meta": {
+  "pagination": {
+   "total": 18,
+   "count": 18,
+   "per_page": 100,
+   "current_page": 1,
+   "total_pages": 1,
+   "links": []
+  }
+ }
+}

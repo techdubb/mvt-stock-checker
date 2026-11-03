@@ -1,0 +1,28 @@
+# Install: see README "Option 1". Assumes the code lives in /opt/mvt-stock-watcher
+# with a virtualenv at /opt/mvt-stock-watcher/.venv and config in /opt/mvt-stock-watcher/.env.
+[Unit]
+Description=Maine Vintage Toys stock watcher
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/mvt-stock-watcher
+EnvironmentFile=/opt/mvt-stock-watcher/.env
+# State lives in /var/lib/mvt-stock-watcher (created by StateDirectory below).
+Environment=STATE_FILE=/var/lib/mvt-stock-watcher/state.json
+Environment=PYTHONUNBUFFERED=1 PYTHONDONTWRITEBYTECODE=1
+ExecStart=/opt/mvt-stock-watcher/.venv/bin/python /opt/mvt-stock-watcher/watcher.py
+Restart=always
+RestartSec=30
+
+# Run as a throwaway unprivileged user with a private, persistent state dir.
+DynamicUser=yes
+StateDirectory=mvt-stock-watcher
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+
+[Install]
+WantedBy=multi-user.target

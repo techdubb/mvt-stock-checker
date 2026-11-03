@@ -1,0 +1,17 @@
+services:
+  mvt-stock-watcher:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      STATE_FILE: /data/state.json
+    volumes:
+      - watcher-data:/data
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  watcher-data:
