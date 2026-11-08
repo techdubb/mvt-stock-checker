@@ -4,13 +4,13 @@
   "products": {
     "2OGA7NHLTDUC4CJK4XD5542H": {
       "alerted": true,
-      "consecutive_in_stock": 3,
+      "consecutive_in_stock": 4,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
-      "last_alert_at": "2026-11-07T23:47:06.600153+00:00",
+      "last_alert_at": "2026-11-08T02:46:43.576873+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon Mega Evolution Delta Reign Booster Pack (*In-Store Pick-up Only!*)",
-      "reminders_sent": 2,
+      "reminders_sent": 3,
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-booster-pack-in-store-pick-up-only-/2OGA7NHLTDUC4CJK4XD5542H"
     },
     "37RPMDJRP2BOHMKN7KVSIJZX": {
@@ -81,7 +81,7 @@
     },
     "UI3COO7RFG4RKDUH2WDK36SG": {
       "alerted": true,
-      "consecutive_in_stock": 21,
+      "consecutive_in_stock": 22,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-03T21:56:32.990146+00:00",
