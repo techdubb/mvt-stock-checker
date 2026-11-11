@@ -1,10 +1,10 @@
 {
   "failure_alert_sent": false,
-  "last_heartbeat_date": "2026-11-10",
+  "last_heartbeat_date": "2026-11-11",
   "products": {
     "2OGA7NHLTDUC4CJK4XD5542H": {
       "alerted": true,
-      "consecutive_in_stock": 16,
+      "consecutive_in_stock": 17,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
       "last_alert_at": "2026-11-08T02:46:43.576873+00:00",
@@ -14,26 +14,37 @@
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-booster-pack-in-store-pick-up-only-/2OGA7NHLTDUC4CJK4XD5542H"
     },
     "32NUPQTPHAOY6WPMGMKD2GTF": {
-      "alerted": true,
-      "consecutive_in_stock": 3,
-      "current": "IN_STOCK",
-      "first_seen": "2026-11-10T21:29:31.946751+00:00",
-      "last_alert_at": "2026-11-11T08:18:06.328182+00:00",
-      "last_known": "IN_STOCK",
-      "name": "Pokemon 30th Celebration Figure Collection (*In-Store Pick-up Only!*)",
-      "reminders_sent": 2,
-      "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-figure-collection-in-store-pick-up-only-/32NUPQTPHAOY6WPMGMKD2GTF"
-    },
-    "37RPMDJRP2BOHMKN7KVSIJZX": {
       "alerted": false,
       "consecutive_in_stock": 0,
       "current": "OUT_OF_STOCK",
-      "first_seen": "2026-11-03T21:56:32.990146+00:00",
-      "last_alert_at": "2026-11-03T21:56:32.990146+00:00",
+      "first_seen": "2026-11-10T21:29:31.946751+00:00",
+      "last_alert_at": "2026-11-11T08:18:06.328182+00:00",
       "last_known": "OUT_OF_STOCK",
+      "name": "Pokemon 30th Celebration Figure Collection (*In-Store Pick-up Only!*)",
+      "reminders_sent": 0,
+      "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-figure-collection-in-store-pick-up-only-/32NUPQTPHAOY6WPMGMKD2GTF"
+    },
+    "37RPMDJRP2BOHMKN7KVSIJZX": {
+      "alerted": true,
+      "consecutive_in_stock": 1,
+      "current": "IN_STOCK",
+      "first_seen": "2026-11-03T21:56:32.990146+00:00",
+      "last_alert_at": "2026-11-11T16:22:54.545104+00:00",
+      "last_known": "IN_STOCK",
       "name": "Pokemon Mega Evolution Delta Reign 3-Pack Blister (*In-Store Pick-up Only!*)",
       "reminders_sent": 0,
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-3-pack-blister-in-store-pick-up-only-/37RPMDJRP2BOHMKN7KVSIJZX"
+    },
+    "5BOE6GPWLCTFPLTYXYAXY7I4": {
+      "alerted": true,
+      "consecutive_in_stock": 1,
+      "current": "IN_STOCK",
+      "first_seen": "2026-11-11T16:22:54.545104+00:00",
+      "last_alert_at": "2026-11-11T16:22:54.545104+00:00",
+      "last_known": "IN_STOCK",
+      "name": "Pokemon Mega Evolution Delta Reign Sleeved Booster Pack (*In-Store Pick-up Only!*)",
+      "reminders_sent": 0,
+      "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-sleeved-booster-pack-in-store-pick-up-only-/5BOE6GPWLCTFPLTYXYAXY7I4"
     },
     "GMJ7EVV3QTZSNZUIFXY3VSJ6": {
       "alerted": true,
@@ -81,13 +92,13 @@
     },
     "MRJTIODERTY67I2UMLDKLN62": {
       "alerted": true,
-      "consecutive_in_stock": 3,
+      "consecutive_in_stock": 4,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
-      "last_alert_at": "2026-11-11T08:18:06.328182+00:00",
+      "last_alert_at": "2026-11-11T16:22:54.545104+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon 30th Celebration Elite Trainer Box (*In-Store Pick-up Only!*)",
-      "reminders_sent": 2,
+      "reminders_sent": 3,
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-elite-trainer-box-in-store-pick-up-only-/MRJTIODERTY67I2UMLDKLN62"
     },
     "NFRH52LSN26M5AXZLFZ3VC47": {
@@ -114,7 +125,7 @@
     },
     "UI3COO7RFG4RKDUH2WDK36SG": {
       "alerted": true,
-      "consecutive_in_stock": 34,
+      "consecutive_in_stock": 35,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-03T21:56:32.990146+00:00",
