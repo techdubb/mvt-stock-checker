@@ -1,10 +1,10 @@
 {
   "failure_alert_sent": false,
-  "last_heartbeat_date": "2026-11-11",
+  "last_heartbeat_date": "2026-11-12",
   "products": {
     "2OGA7NHLTDUC4CJK4XD5542H": {
       "alerted": true,
-      "consecutive_in_stock": 20,
+      "consecutive_in_stock": 21,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
       "last_alert_at": "2026-11-08T02:46:43.576873+00:00",
@@ -14,30 +14,30 @@
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-booster-pack-in-store-pick-up-only-/2OGA7NHLTDUC4CJK4XD5542H"
     },
     "32NUPQTPHAOY6WPMGMKD2GTF": {
-      "alerted": false,
-      "consecutive_in_stock": 0,
-      "current": "OUT_OF_STOCK",
+      "alerted": true,
+      "consecutive_in_stock": 1,
+      "current": "IN_STOCK",
       "first_seen": "2026-11-10T21:29:31.946751+00:00",
-      "last_alert_at": "2026-11-11T08:18:06.328182+00:00",
-      "last_known": "OUT_OF_STOCK",
+      "last_alert_at": "2026-11-12T19:36:18.700836+00:00",
+      "last_known": "IN_STOCK",
       "name": "Pokemon 30th Celebration Figure Collection (*In-Store Pick-up Only!*)",
       "reminders_sent": 0,
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-figure-collection-in-store-pick-up-only-/32NUPQTPHAOY6WPMGMKD2GTF"
     },
     "37RPMDJRP2BOHMKN7KVSIJZX": {
-      "alerted": true,
-      "consecutive_in_stock": 4,
-      "current": "IN_STOCK",
+      "alerted": false,
+      "consecutive_in_stock": 0,
+      "current": "OUT_OF_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
       "last_alert_at": "2026-11-12T11:53:26.262772+00:00",
-      "last_known": "IN_STOCK",
+      "last_known": "OUT_OF_STOCK",
       "name": "Pokemon Mega Evolution Delta Reign 3-Pack Blister (*In-Store Pick-up Only!*)",
-      "reminders_sent": 3,
+      "reminders_sent": 0,
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-3-pack-blister-in-store-pick-up-only-/37RPMDJRP2BOHMKN7KVSIJZX"
     },
     "5BOE6GPWLCTFPLTYXYAXY7I4": {
       "alerted": true,
-      "consecutive_in_stock": 4,
+      "consecutive_in_stock": 5,
       "current": "IN_STOCK",
       "first_seen": "2026-11-11T16:22:54.545104+00:00",
       "last_alert_at": "2026-11-12T11:53:26.262772+00:00",
@@ -48,13 +48,13 @@
     },
     "GMJ7EVV3QTZSNZUIFXY3VSJ6": {
       "alerted": true,
-      "consecutive_in_stock": 3,
+      "consecutive_in_stock": 4,
       "current": "IN_STOCK",
       "first_seen": "2026-11-10T21:29:31.946751+00:00",
-      "last_alert_at": "2026-11-11T08:18:06.328182+00:00",
+      "last_alert_at": "2026-11-12T19:36:18.700836+00:00",
       "last_known": "IN_STOCK",
       "name": "1 x Pokemon 30th Celebration Ultra Premium Collection (*In-Store Pick-up Only!*)",
-      "reminders_sent": 2,
+      "reminders_sent": 3,
       "url": "https://www.mainevintagetoys.com/product/1-x-pokemon-30th-celebration-ultra-premium-collection-in-store-pick-up-only-/GMJ7EVV3QTZSNZUIFXY3VSJ6"
     },
     "GZLCXXYKTICMT4CJIPPNKDI6": {
@@ -81,18 +81,18 @@
     },
     "LUZN2BBTGTF5VFVYCXDXTPCK": {
       "alerted": true,
-      "consecutive_in_stock": 3,
+      "consecutive_in_stock": 4,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
-      "last_alert_at": "2026-11-12T11:53:26.262772+00:00",
+      "last_alert_at": "2026-11-12T19:36:18.700836+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon Mega Evolution Delta Reign Booster Box (*In-Store Pick-up Only!*)",
-      "reminders_sent": 2,
+      "reminders_sent": 3,
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-booster-box-in-store-pick-up-only-/LUZN2BBTGTF5VFVYCXDXTPCK"
     },
     "MRJTIODERTY67I2UMLDKLN62": {
       "alerted": true,
-      "consecutive_in_stock": 7,
+      "consecutive_in_stock": 8,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-11T16:22:54.545104+00:00",
@@ -125,7 +125,7 @@
     },
     "UI3COO7RFG4RKDUH2WDK36SG": {
       "alerted": true,
-      "consecutive_in_stock": 38,
+      "consecutive_in_stock": 39,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-03T21:56:32.990146+00:00",
