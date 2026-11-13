@@ -1,10 +1,10 @@
 {
   "failure_alert_sent": false,
-  "last_heartbeat_date": "2026-11-12",
+  "last_heartbeat_date": "2026-11-13",
   "products": {
     "2OGA7NHLTDUC4CJK4XD5542H": {
       "alerted": true,
-      "consecutive_in_stock": 23,
+      "consecutive_in_stock": 24,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
       "last_alert_at": "2026-11-08T02:46:43.576873+00:00",
@@ -37,7 +37,7 @@
     },
     "5BOE6GPWLCTFPLTYXYAXY7I4": {
       "alerted": true,
-      "consecutive_in_stock": 7,
+      "consecutive_in_stock": 8,
       "current": "IN_STOCK",
       "first_seen": "2026-11-11T16:22:54.545104+00:00",
       "last_alert_at": "2026-11-12T11:53:26.262772+00:00",
@@ -58,14 +58,14 @@
       "url": "https://www.mainevintagetoys.com/product/1-x-pokemon-30th-celebration-ultra-premium-collection-in-store-pick-up-only-/GMJ7EVV3QTZSNZUIFXY3VSJ6"
     },
     "GZLCXXYKTICMT4CJIPPNKDI6": {
-      "alerted": true,
-      "consecutive_in_stock": 2,
-      "current": "IN_STOCK",
+      "alerted": false,
+      "consecutive_in_stock": 0,
+      "current": "OUT_OF_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
       "last_alert_at": "2026-11-13T07:23:19.237004+00:00",
-      "last_known": "IN_STOCK",
+      "last_known": "OUT_OF_STOCK",
       "name": "Pokemon Mega Evolution Delta Reign Elite Trainer Box (*In-Store Pick-up Only!*)",
-      "reminders_sent": 1,
+      "reminders_sent": 0,
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-elite-trainer-box-in-store-pick-up-only-/GZLCXXYKTICMT4CJIPPNKDI6"
     },
     "KJE2AIG2IHILMZP2XKYLARES": {
@@ -80,19 +80,19 @@
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-tech-sticker-collection-in-store-pick-up-only-/KJE2AIG2IHILMZP2XKYLARES"
     },
     "LUZN2BBTGTF5VFVYCXDXTPCK": {
-      "alerted": false,
-      "consecutive_in_stock": 0,
-      "current": "OUT_OF_STOCK",
+      "alerted": true,
+      "consecutive_in_stock": 1,
+      "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
-      "last_alert_at": "2026-11-12T19:36:18.700836+00:00",
-      "last_known": "OUT_OF_STOCK",
+      "last_alert_at": "2026-11-13T15:35:52.488493+00:00",
+      "last_known": "IN_STOCK",
       "name": "Pokemon Mega Evolution Delta Reign Booster Box (*In-Store Pick-up Only!*)",
       "reminders_sent": 0,
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-booster-box-in-store-pick-up-only-/LUZN2BBTGTF5VFVYCXDXTPCK"
     },
     "MRJTIODERTY67I2UMLDKLN62": {
       "alerted": true,
-      "consecutive_in_stock": 10,
+      "consecutive_in_stock": 11,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-11T16:22:54.545104+00:00",
@@ -125,7 +125,7 @@
     },
     "UI3COO7RFG4RKDUH2WDK36SG": {
       "alerted": true,
-      "consecutive_in_stock": 41,
+      "consecutive_in_stock": 42,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-03T21:56:32.990146+00:00",
