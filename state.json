@@ -4,7 +4,7 @@
   "products": {
     "2OGA7NHLTDUC4CJK4XD5542H": {
       "alerted": true,
-      "consecutive_in_stock": 28,
+      "consecutive_in_stock": 29,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
       "last_alert_at": "2026-11-08T02:46:43.576873+00:00",
@@ -14,14 +14,14 @@
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-booster-pack-in-store-pick-up-only-/2OGA7NHLTDUC4CJK4XD5542H"
     },
     "32NUPQTPHAOY6WPMGMKD2GTF": {
-      "alerted": true,
-      "consecutive_in_stock": 4,
-      "current": "IN_STOCK",
+      "alerted": false,
+      "consecutive_in_stock": 0,
+      "current": "OUT_OF_STOCK",
       "first_seen": "2026-11-10T21:29:31.946751+00:00",
       "last_alert_at": "2026-11-14T15:07:01.451357+00:00",
-      "last_known": "IN_STOCK",
+      "last_known": "OUT_OF_STOCK",
       "name": "Pokemon 30th Celebration Figure Collection (*In-Store Pick-up Only!*)",
-      "reminders_sent": 3,
+      "reminders_sent": 0,
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-figure-collection-in-store-pick-up-only-/32NUPQTPHAOY6WPMGMKD2GTF"
     },
     "37RPMDJRP2BOHMKN7KVSIJZX": {
@@ -37,7 +37,7 @@
     },
     "5BOE6GPWLCTFPLTYXYAXY7I4": {
       "alerted": true,
-      "consecutive_in_stock": 12,
+      "consecutive_in_stock": 13,
       "current": "IN_STOCK",
       "first_seen": "2026-11-11T16:22:54.545104+00:00",
       "last_alert_at": "2026-11-12T11:53:26.262772+00:00",
@@ -48,7 +48,7 @@
     },
     "7GJYO73XFFVZZNSDLFHBPDCF": {
       "alerted": true,
-      "consecutive_in_stock": 4,
+      "consecutive_in_stock": 5,
       "current": "IN_STOCK",
       "first_seen": "2026-11-13T21:37:33.923951+00:00",
       "last_alert_at": "2026-11-14T15:07:01.451357+00:00",
@@ -58,12 +58,12 @@
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-poster-collection-in-store-pick-up-only-/7GJYO73XFFVZZNSDLFHBPDCF"
     },
     "GMJ7EVV3QTZSNZUIFXY3VSJ6": {
-      "alerted": true,
-      "consecutive_in_stock": 1,
-      "current": "IN_STOCK",
+      "alerted": false,
+      "consecutive_in_stock": 0,
+      "current": "OUT_OF_STOCK",
       "first_seen": "2026-11-10T21:29:31.946751+00:00",
       "last_alert_at": "2026-11-14T15:07:01.451357+00:00",
-      "last_known": "IN_STOCK",
+      "last_known": "OUT_OF_STOCK",
       "name": "1 x Pokemon 30th Celebration Ultra Premium Collection (*In-Store Pick-up Only!*)",
       "reminders_sent": 0,
       "url": "https://www.mainevintagetoys.com/product/1-x-pokemon-30th-celebration-ultra-premium-collection-in-store-pick-up-only-/GMJ7EVV3QTZSNZUIFXY3VSJ6"
@@ -92,7 +92,7 @@
     },
     "LUZN2BBTGTF5VFVYCXDXTPCK": {
       "alerted": true,
-      "consecutive_in_stock": 5,
+      "consecutive_in_stock": 6,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
       "last_alert_at": "2026-11-14T08:09:45.446159+00:00",
@@ -103,13 +103,13 @@
     },
     "MRJTIODERTY67I2UMLDKLN62": {
       "alerted": true,
-      "consecutive_in_stock": 1,
+      "consecutive_in_stock": 2,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
-      "last_alert_at": "2026-11-14T15:07:01.451357+00:00",
+      "last_alert_at": "2026-11-14T19:55:44.224578+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon 30th Celebration Elite Trainer Box (*In-Store Pick-up Only!*)",
-      "reminders_sent": 0,
+      "reminders_sent": 1,
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-elite-trainer-box-in-store-pick-up-only-/MRJTIODERTY67I2UMLDKLN62"
     },
     "NFRH52LSN26M5AXZLFZ3VC47": {
@@ -136,7 +136,7 @@
     },
     "UI3COO7RFG4RKDUH2WDK36SG": {
       "alerted": true,
-      "consecutive_in_stock": 46,
+      "consecutive_in_stock": 47,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-03T21:56:32.990146+00:00",
@@ -147,7 +147,7 @@
     },
     "UJ3MS64ZAD4EEJHBMRESUZFD": {
       "alerted": true,
-      "consecutive_in_stock": 4,
+      "consecutive_in_stock": 5,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-14T15:07:01.451357+00:00",
@@ -158,7 +158,7 @@
     },
     "VNCTO5HI4EHP7LYJ63DF65PK": {
       "alerted": true,
-      "consecutive_in_stock": 4,
+      "consecutive_in_stock": 5,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-14T15:07:01.451357+00:00",
