@@ -4,7 +4,7 @@
   "products": {
     "2OGA7NHLTDUC4CJK4XD5542H": {
       "alerted": true,
-      "consecutive_in_stock": 25,
+      "consecutive_in_stock": 26,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
       "last_alert_at": "2026-11-08T02:46:43.576873+00:00",
@@ -15,13 +15,13 @@
     },
     "32NUPQTPHAOY6WPMGMKD2GTF": {
       "alerted": true,
-      "consecutive_in_stock": 1,
+      "consecutive_in_stock": 2,
       "current": "IN_STOCK",
       "first_seen": "2026-11-10T21:29:31.946751+00:00",
-      "last_alert_at": "2026-11-13T21:37:33.923951+00:00",
+      "last_alert_at": "2026-11-14T01:48:03.921498+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon 30th Celebration Figure Collection (*In-Store Pick-up Only!*)",
-      "reminders_sent": 0,
+      "reminders_sent": 1,
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-figure-collection-in-store-pick-up-only-/32NUPQTPHAOY6WPMGMKD2GTF"
     },
     "37RPMDJRP2BOHMKN7KVSIJZX": {
@@ -37,7 +37,7 @@
     },
     "5BOE6GPWLCTFPLTYXYAXY7I4": {
       "alerted": true,
-      "consecutive_in_stock": 9,
+      "consecutive_in_stock": 10,
       "current": "IN_STOCK",
       "first_seen": "2026-11-11T16:22:54.545104+00:00",
       "last_alert_at": "2026-11-12T11:53:26.262772+00:00",
@@ -48,13 +48,13 @@
     },
     "7GJYO73XFFVZZNSDLFHBPDCF": {
       "alerted": true,
-      "consecutive_in_stock": 1,
+      "consecutive_in_stock": 2,
       "current": "IN_STOCK",
       "first_seen": "2026-11-13T21:37:33.923951+00:00",
-      "last_alert_at": "2026-11-13T21:37:33.923951+00:00",
+      "last_alert_at": "2026-11-14T01:48:03.921498+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon 30th Celebration Poster Collection (*In-Store Pick-up Only!*)",
-      "reminders_sent": 0,
+      "reminders_sent": 1,
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-poster-collection-in-store-pick-up-only-/7GJYO73XFFVZZNSDLFHBPDCF"
     },
     "GMJ7EVV3QTZSNZUIFXY3VSJ6": {
@@ -92,13 +92,13 @@
     },
     "LUZN2BBTGTF5VFVYCXDXTPCK": {
       "alerted": true,
-      "consecutive_in_stock": 2,
+      "consecutive_in_stock": 3,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T21:56:32.990146+00:00",
-      "last_alert_at": "2026-11-13T21:37:33.923951+00:00",
+      "last_alert_at": "2026-11-14T01:48:03.921498+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon Mega Evolution Delta Reign Booster Box (*In-Store Pick-up Only!*)",
-      "reminders_sent": 1,
+      "reminders_sent": 2,
       "url": "https://www.mainevintagetoys.com/product/pokemon-mega-evolution-delta-reign-booster-box-in-store-pick-up-only-/LUZN2BBTGTF5VFVYCXDXTPCK"
     },
     "MRJTIODERTY67I2UMLDKLN62": {
@@ -136,7 +136,7 @@
     },
     "UI3COO7RFG4RKDUH2WDK36SG": {
       "alerted": true,
-      "consecutive_in_stock": 43,
+      "consecutive_in_stock": 44,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
       "last_alert_at": "2026-11-03T21:56:32.990146+00:00",
@@ -147,24 +147,24 @@
     },
     "UJ3MS64ZAD4EEJHBMRESUZFD": {
       "alerted": true,
-      "consecutive_in_stock": 1,
+      "consecutive_in_stock": 2,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
-      "last_alert_at": "2026-11-13T21:37:33.923951+00:00",
+      "last_alert_at": "2026-11-14T01:48:03.921498+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon 30th Celebration Mini Tin (*In-Store Pick-up Only!*)",
-      "reminders_sent": 0,
+      "reminders_sent": 1,
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-mini-tin-in-store-pick-up-only-/UJ3MS64ZAD4EEJHBMRESUZFD"
     },
     "VNCTO5HI4EHP7LYJ63DF65PK": {
       "alerted": true,
-      "consecutive_in_stock": 1,
+      "consecutive_in_stock": 2,
       "current": "IN_STOCK",
       "first_seen": "2026-11-03T01:32:15.239620+00:00",
-      "last_alert_at": "2026-11-13T21:37:33.923951+00:00",
+      "last_alert_at": "2026-11-14T01:48:03.921498+00:00",
       "last_known": "IN_STOCK",
       "name": "Pokemon 30th Celebration ex Box (*In-Store Pick-up Only!*)",
-      "reminders_sent": 0,
+      "reminders_sent": 1,
       "url": "https://www.mainevintagetoys.com/product/pokemon-30th-celebration-ex-box-in-store-pick-up-only-/VNCTO5HI4EHP7LYJ63DF65PK"
     },
     "WFSAJA3TDJGSMWFHUQLJQ7NC": {
